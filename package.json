@@ -1,11 +1,11 @@
 {
-  "name": "storytestfj-storybook-learn",
+  "name": "story-test-fj",
   "version": "0.1.0",
   "private": false,
   "description": "test design system workflow",
   "main": "dist/index.js",
-  "repository": "https://github.com/chromaui/learnstorybook-design-system.git",
-  "author": "Tom Coleman <tom@thesnail.org>",
+  "repository": "https://github.com/aryaCompanyAccount/test-story-fj.git",
+  "author": "arya aryabariz@fivejack.com",
   "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
